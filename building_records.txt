@@ -1,0 +1,3 @@
+Office Building,10
+Apartment Building,20
+Shopping Mall,3
